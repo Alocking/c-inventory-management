@@ -1,0 +1,22 @@
+# 编译产物
+*.o
+*.obj
+*.exe
+inventory
+test
+
+# 数据文件（运行时生成）
+product.dat
+stock_order.dat
+*.tmp
+
+# IDE / 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 系统文件
+.DS_Store
+Thumbs.db
